@@ -9,10 +9,7 @@ namespace EntityFrameworkCoreRelations
         {
             AppDbContext context = new AppDbContext();
 
-            Shop shop = new Shop("T1");
-            context.Shops.Add(shop);
-            context.Add(new Address("C1", shop.Id));
-            context.SaveChanges();
+            //Add new content...
         }        
     }
 
@@ -21,12 +18,6 @@ namespace EntityFrameworkCoreRelations
         public int Id { get; set; } //PK
         public string Street { get; set; }
         public int ShopId { get; set; } //FK
-
-        public Address(string street, int shopId)
-        {
-            this.Street = street;
-            this.ShopId = shopId;
-        }
     }
 
     class Shop
@@ -35,12 +26,6 @@ namespace EntityFrameworkCoreRelations
         public string Name { get; set; }
         public Address Address { get; set; } //Navigation Property
         public int OwnerId { get; set; } //FK
-
-        public Shop(string Name)
-        {
-            this.Name = Name;
-        }
-
     }
 
     class Owner
