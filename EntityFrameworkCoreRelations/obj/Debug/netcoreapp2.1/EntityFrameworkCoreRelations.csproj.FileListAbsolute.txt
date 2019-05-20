@@ -1,0 +1,11 @@
+C:\Users\Sergio\source\repos\EntityFrameworkCoreRelations\EntityFrameworkCoreRelations\bin\Debug\netcoreapp2.1\EntityFrameworkCoreRelations.deps.json
+C:\Users\Sergio\source\repos\EntityFrameworkCoreRelations\EntityFrameworkCoreRelations\bin\Debug\netcoreapp2.1\EntityFrameworkCoreRelations.runtimeconfig.json
+C:\Users\Sergio\source\repos\EntityFrameworkCoreRelations\EntityFrameworkCoreRelations\bin\Debug\netcoreapp2.1\EntityFrameworkCoreRelations.runtimeconfig.dev.json
+C:\Users\Sergio\source\repos\EntityFrameworkCoreRelations\EntityFrameworkCoreRelations\bin\Debug\netcoreapp2.1\EntityFrameworkCoreRelations.dll
+C:\Users\Sergio\source\repos\EntityFrameworkCoreRelations\EntityFrameworkCoreRelations\obj\Debug\netcoreapp2.1\EntityFrameworkCoreRelations.csprojAssemblyReference.cache
+C:\Users\Sergio\source\repos\EntityFrameworkCoreRelations\EntityFrameworkCoreRelations\obj\Debug\netcoreapp2.1\EntityFrameworkCoreRelations.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\source\repos\EntityFrameworkCoreRelations\EntityFrameworkCoreRelations\obj\Debug\netcoreapp2.1\EntityFrameworkCoreRelations.AssemblyInfoInputs.cache
+C:\Users\Sergio\source\repos\EntityFrameworkCoreRelations\EntityFrameworkCoreRelations\obj\Debug\netcoreapp2.1\EntityFrameworkCoreRelations.AssemblyInfo.cs
+C:\Users\Sergio\source\repos\EntityFrameworkCoreRelations\EntityFrameworkCoreRelations\bin\Debug\netcoreapp2.1\EntityFrameworkCoreRelations.pdb
+C:\Users\Sergio\source\repos\EntityFrameworkCoreRelations\EntityFrameworkCoreRelations\obj\Debug\netcoreapp2.1\EntityFrameworkCoreRelations.dll
+C:\Users\Sergio\source\repos\EntityFrameworkCoreRelations\EntityFrameworkCoreRelations\obj\Debug\netcoreapp2.1\EntityFrameworkCoreRelations.pdb
